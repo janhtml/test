@@ -1,0 +1,33 @@
+.main-header {
+  font-size: 56px;
+  color: #365f91;
+  font-family: serif;
+  font-style: italic;
+}
+p {
+   font-size: 20px;
+   background-color: #87CEEB;
+}
+strong {
+  text-decoration: underline;
+}
+ul {
+ color: #FF00FF;  
+ font-weight: bold;
+ font-size: 18px;
+}
+ul .first-level {
+list-style-type: square; 
+}
+ul .second-level {
+ list-style-type: circle;  
+}
+blockquote {
+  background-image:url(https://netology-code.github.io/wm-homeworks/text/images/wm-2-2-bg.jpg);
+    color: #494429;
+  font-family: serif; 
+  font-size: 18px;
+}
+body {
+	background-image: url(Double_Peaked_Ararat.jpg);
+}
